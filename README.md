@@ -32,13 +32,13 @@ Develop an innovative AI-driven solution that leverages real-time audio analysis
 **Team Syndicate Members**
 
 ## 4️⃣ Deployed Link
-🌐 **Live Application**: [Coming Soon - Local Deployment Available]
+🌐 **Live Application**: AI-Fraud-Detection[https://ai-fraud-detection-msv.netlify.app/]
 
 ## 5️⃣ 2-Minute Demonstration Video Link
 🎥 **Demo Video**: [Upload Your Video Link Here]
 
 ## 6️⃣ PPT Link
-📊 **Presentation**: [Upload Your PPT Link Here]
+📊 **Presentation**: docworkspace.com[https://in.docworkspace.com/d/sICjeusrJArK26MoG?sa=601.1037]
 
 
 
