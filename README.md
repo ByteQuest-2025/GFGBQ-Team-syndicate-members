@@ -9,83 +9,7 @@
   <img src="https://img.shields.io/badge/ML%20Accuracy-75%25+-success" alt="ML Accuracy">
 </div>
 
-## 📸 Live Demo Screenshots
 
-### 🏠 Main Interface
-<div align="center">
-  <img src="./screenshot pics/main home page.png" alt="ScamShield Main Interface" width="800">
-  <p><em>Clean, elderly-friendly interface with large buttons and clear instructions</em></p>
-</div>
-
-### 🌍 Multi-Language Support
-<div align="center">
-  <img src="./screenshot pics/language show.png" alt="Language Selection" width="800">
-  <p><em>Support for 8 Indian languages with native script display</em></p>
-</div>
-
-### 🎤 Real-Time Speech Processing
-<div align="center">
-  <img src="./screenshot pics/voice to speech conversion ui.png" alt="Speech Recognition" width="800">
-  <p><em>Live speech-to-text conversion with real-time fraud analysis</em></p>
-</div>
-
-### 🚨 Fraud Detection Alerts
-
-#### Critical Risk Detection
-<div align="center">
-  <img src="./screenshot pics/complete Fraud Detection popup.jpeg" alt="Critical Fraud Alert" width="800">
-  <p><em>Full-screen critical alert with emergency actions for high-risk fraud calls</em></p>
-</div>
-
-#### High Risk Warning
-<div align="center">
-  <img src="./screenshot pics/High Risk of Call.jpeg" alt="High Risk Alert" width="800">
-  <p><em>High-risk fraud detection with detailed warning message</em></p>
-</div>
-
-#### Medium Risk Notification
-<div align="center">
-  <img src="./screenshot pics/medium Risk Call popup.jpeg" alt="Medium Risk Alert" width="800">
-  <p><em>Medium-risk alert with cautionary advice for suspicious calls</em></p>
-</div>
-
-### 🤖 ML Model Performance
-
-#### Training Results
-<div align="center">
-  <img src="./screenshot pics/train Result 1.png" alt="ML Training Results 1" width="800">
-  <p><em>ML model training with 487 samples achieving 75.4% accuracy</em></p>
-</div>
-
-<div align="center">
-  <img src="./screenshot pics/Train Result 2.png" alt="ML Training Results 2" width="800">
-  <p><em>Detailed training metrics and performance analysis</em></p>
-</div>
-
-#### Live Testing Results
-<div align="center">
-  <img src="./screenshot pics/Test Results.png" alt="Live Test Results" width="800">
-  <p><em>Real-time fraud detection testing across multiple languages</em></p>
-</div>
-
-## 🎬 Demo Flow - Complete User Journey
-
-### Step 1: Welcome & Language Selection
-🏠 **Main Interface** → 🌍 **Language Selection** → 🎤 **Voice Activation**
-
-### Step 2: Real-Time Protection
-🎤 **Speech Recognition** → 🤖 **ML Analysis** → 📊 **Risk Assessment**
-
-### Step 3: Alert System
-- 🟢 **Low Risk**: Safe call indication
-- 🟡 **Medium Risk**: Caution notification  
-- 🔴 **High Risk**: Strong warning alert
-- 🚨 **Critical Risk**: Emergency full-screen alert
-
-### Step 4: User Protection
-🛡️ **Fraud Prevention** → 📞 **Call Termination** → 📝 **Incident Logging**
-
----
 
 ## 🚀 Overview
 
@@ -94,7 +18,7 @@
 ### ✨ Key Features
 
 - 🎤 **Real-time Speech Recognition** - Browser-based speech-to-text conversion
-- 🤖 **AI-Powered ML Analysis** - Advanced ensemble model with 85%+ accuracy
+- 🤖 **AI-Powered ML Analysis** - Advanced ensemble model with 75%+ accuracy
 - 🌍 **8-Language Support** - English, Hindi, Telugu, Tamil, Kannada, Malayalam, Marathi, Bengali
 - 📱 **Elderly-Friendly UI** - Large text, clear colors, simple messaging
 - ⚡ **Instant Alerts** - Immediate warnings for high-risk calls
@@ -132,7 +56,7 @@ Audio Input → Speech-to-Text → ML Processing → Risk Analysis → Alert Gen
 
 | Metric | Value |
 |--------|-------|
-| **Overall Accuracy** | 85.29% |
+| **Overall Accuracy** | 75.4% |
 | **Training Samples** | 487 |
 | **Fraud Samples** | 225 |
 | **Legitimate Samples** | 262 |
@@ -324,6 +248,63 @@ We welcome contributions! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## 📸 Live Application Screenshots
+
+### 🏠 Main Dashboard
+<div align="center">
+  <img src="./screenshot pics/main home page.png" alt="ScamShield Main Interface" width="600">
+  <p><em>Clean, elderly-friendly interface with intuitive controls</em></p>
+</div>
+
+### 🌐 Multi-Language Support
+<div align="center">
+  <img src="./screenshot pics/language show.png" alt="Language Selection" width="600">
+  <p><em>8 Indian languages with native script support</em></p>
+</div>
+
+### 🎤 Real-Time Speech Processing
+<div align="center">
+  <img src="./screenshot pics/voice to speech conversion ui.png" alt="Speech Recognition" width="600">
+  <p><em>Live speech-to-text with instant fraud analysis</em></p>
+</div>
+
+### 🚨 Fraud Detection System
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="./screenshot pics/complete Fraud Detection popup.jpeg" alt="Critical Alert" width="280">
+<br><strong>Critical Risk Alert</strong>
+</td>
+<td align="center">
+<img src="./screenshot pics/High Risk of Call.jpeg" alt="High Risk" width="280">
+<br><strong>High Risk Warning</strong>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="./screenshot pics/medium Risk Call popup.jpeg" alt="Medium Risk" width="280">
+<br><strong>Medium Risk Caution</strong>
+</td>
+<td align="center">
+<img src="./screenshot pics/Test Results.png" alt="Live Testing" width="280">
+<br><strong>Live Test Results</strong>
+</td>
+</tr>
+</table>
+
+### 🤖 ML Model Training & Performance
+
+<div align="center">
+  <img src="./screenshot pics/train Result 1.png" alt="ML Training Results" width="500">
+  <p><em>ML model training with 487 samples achieving 75.4% accuracy</em></p>
+</div>
+
+<div align="center">
+  <img src="./screenshot pics/Train Result 2.png" alt="Training Metrics" width="500">
+  <p><em>Comprehensive performance metrics and validation results</em></p>
+</div>
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -352,86 +333,12 @@ For support, create an issue in this repository or contact the development team.
 
 ---
 
-## 📸 Complete Screenshot Gallery
-
-### 🏠 Main Interface
 <div align="center">
-  <img src="./screenshot pics/main home page.png" alt="ScamShield Main Interface" width="800">
-  <p><em>Clean, elderly-friendly interface with large buttons and clear instructions</em></p>
-</div>
-
-### 🌍 Multi-Language Support
-<div align="center">
-  <img src="./screenshot pics/language show.png" alt="Language Selection" width="800">
-  <p><em>Support for 8 Indian languages with native script display</em></p>
-</div>
-
-### 🎤 Real-Time Speech Processing
-<div align="center">
-  <img src="./screenshot pics/voice to speech conversion ui.png" alt="Speech Recognition" width="800">
-  <p><em>Live speech-to-text conversion with real-time fraud analysis</em></p>
-</div>
-
-### 🚨 Fraud Detection Alerts
-
-#### Critical Risk Detection
-<div align="center">
-  <img src="./screenshot pics/complete Fraud Detection popup.jpeg" alt="Critical Fraud Alert" width="800">
-  <p><em>Full-screen critical alert with emergency actions for high-risk fraud calls</em></p>
-</div>
-
-#### High Risk Warning
-<div align="center">
-  <img src="./screenshot pics/High Risk of Call.jpeg" alt="High Risk Alert" width="800">
-  <p><em>High-risk fraud detection with detailed warning message</em></p>
-</div>
-
-#### Medium Risk Notification
-<div align="center">
-  <img src="./screenshot pics/medium Risk Call popup.jpeg" alt="Medium Risk Alert" width="800">
-  <p><em>Medium-risk alert with cautionary advice for suspicious calls</em></p>
-</div>
-
-### 🤖 ML Model Performance
-
-#### Training Results
-<div align="center">
-  <img src="./screenshot pics/train Result 1.png" alt="ML Training Results 1" width="800">
-  <p><em>ML model training with 487 samples achieving 75.4% accuracy</em></p>
-</div>
-
-<div align="center">
-  <img src="./screenshot pics/Train Result 2.png" alt="ML Training Results 2" width="800">
-  <p><em>Detailed training metrics and performance analysis</em></p>
-</div>
-
-#### Live Testing Results
-<div align="center">
-  <img src="./screenshot pics/Test Results.png" alt="Live Test Results" width="800">
-  <p><em>Real-time fraud detection testing across multiple languages</em></p>
-</div>
-
-### 🎬 Demo Flow - Complete User Journey
-
-#### Step 1: Welcome & Language Selection
-🏠 **Main Interface** → 🌍 **Language Selection** → 🎤 **Voice Activation**
-
-#### Step 2: Real-Time Protection
-🎤 **Speech Recognition** → 🤖 **ML Analysis** → 📊 **Risk Assessment**
-
-#### Step 3: Alert System
-- 🟢 **Low Risk**: Safe call indication
-- 🟡 **Medium Risk**: Caution notification  
-- 🔴 **High Risk**: Strong warning alert
-- 🚨 **Critical Risk**: Emergency full-screen alert
-
-#### Step 4: User Protection
-🛡️ **Fraud Prevention** → 📞 **Call Termination** → 📝 **Incident Logging**
-
----
-
-<div align="center">
+  <h3>🏆 ByteQuest 2025 - GeeksforGeeks Hackathon</h3>
   <strong>🛡️ Protecting millions from fraud, one call at a time</strong>
-  <br>
+  <br><br>
   <em>Built with ❤️ by Team Syndicate Members</em>
+  <br>
+  <img src="https://img.shields.io/badge/Hackathon-ByteQuest%202025-ff6b6b?style=for-the-badge" alt="Hackathon">
+  <img src="https://img.shields.io/badge/Team-Syndicate%20Members-4ecdc4?style=for-the-badge" alt="Team">
 </div>
