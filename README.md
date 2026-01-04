@@ -38,7 +38,7 @@ Develop an innovative AI-driven solution that leverages real-time audio analysis
 🎥 **Demo Video**: https://drive.google.com/drive/folders/1kiyIS_JOgh2pPR_Ot4XRnKb7wZ2DBTZE?usp=sharing
 
 ## 6️⃣ PPT Link
-📊 **Presentation**: https://in.docworkspace.com/d/sICjeusrJArK26MoG?sa=601.1037
+📊 **Presentation**: [https://in.docworkspace.com/d/sICjeusrJArK26MoG?sa=601.1037](https://in.docworkspace.com/d/sICfeusrJApzO6MoG?sa=601.1037)
 
 
 
