@@ -352,6 +352,84 @@ For support, create an issue in this repository or contact the development team.
 
 ---
 
+## 📸 Complete Screenshot Gallery
+
+### 🏠 Main Interface
+<div align="center">
+  <img src="./screenshot pics/main home page.png" alt="ScamShield Main Interface" width="800">
+  <p><em>Clean, elderly-friendly interface with large buttons and clear instructions</em></p>
+</div>
+
+### 🌍 Multi-Language Support
+<div align="center">
+  <img src="./screenshot pics/language show.png" alt="Language Selection" width="800">
+  <p><em>Support for 8 Indian languages with native script display</em></p>
+</div>
+
+### 🎤 Real-Time Speech Processing
+<div align="center">
+  <img src="./screenshot pics/voice to speech conversion ui.png" alt="Speech Recognition" width="800">
+  <p><em>Live speech-to-text conversion with real-time fraud analysis</em></p>
+</div>
+
+### 🚨 Fraud Detection Alerts
+
+#### Critical Risk Detection
+<div align="center">
+  <img src="./screenshot pics/complete Fraud Detection popup.jpeg" alt="Critical Fraud Alert" width="800">
+  <p><em>Full-screen critical alert with emergency actions for high-risk fraud calls</em></p>
+</div>
+
+#### High Risk Warning
+<div align="center">
+  <img src="./screenshot pics/High Risk of Call.jpeg" alt="High Risk Alert" width="800">
+  <p><em>High-risk fraud detection with detailed warning message</em></p>
+</div>
+
+#### Medium Risk Notification
+<div align="center">
+  <img src="./screenshot pics/medium Risk Call popup.jpeg" alt="Medium Risk Alert" width="800">
+  <p><em>Medium-risk alert with cautionary advice for suspicious calls</em></p>
+</div>
+
+### 🤖 ML Model Performance
+
+#### Training Results
+<div align="center">
+  <img src="./screenshot pics/train Result 1.png" alt="ML Training Results 1" width="800">
+  <p><em>ML model training with 487 samples achieving 75.4% accuracy</em></p>
+</div>
+
+<div align="center">
+  <img src="./screenshot pics/Train Result 2.png" alt="ML Training Results 2" width="800">
+  <p><em>Detailed training metrics and performance analysis</em></p>
+</div>
+
+#### Live Testing Results
+<div align="center">
+  <img src="./screenshot pics/Test Results.png" alt="Live Test Results" width="800">
+  <p><em>Real-time fraud detection testing across multiple languages</em></p>
+</div>
+
+### 🎬 Demo Flow - Complete User Journey
+
+#### Step 1: Welcome & Language Selection
+🏠 **Main Interface** → 🌍 **Language Selection** → 🎤 **Voice Activation**
+
+#### Step 2: Real-Time Protection
+🎤 **Speech Recognition** → 🤖 **ML Analysis** → 📊 **Risk Assessment**
+
+#### Step 3: Alert System
+- 🟢 **Low Risk**: Safe call indication
+- 🟡 **Medium Risk**: Caution notification  
+- 🔴 **High Risk**: Strong warning alert
+- 🚨 **Critical Risk**: Emergency full-screen alert
+
+#### Step 4: User Protection
+🛡️ **Fraud Prevention** → 📞 **Call Termination** → 📝 **Incident Logging**
+
+---
+
 <div align="center">
   <strong>🛡️ Protecting millions from fraud, one call at a time</strong>
   <br>
