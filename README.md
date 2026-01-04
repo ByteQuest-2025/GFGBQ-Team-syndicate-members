@@ -9,6 +9,37 @@
   <img src="https://img.shields.io/badge/ML%20Accuracy-75%25+-success" alt="ML Accuracy">
 </div>
 
+## 1️⃣ Problem Statement
+
+**PS 11: Real-Time Audio Fraud Detection for Scam Prevention**
+
+With the rapid rise of voice-based scams, fraudsters increasingly exploit phone calls to deceive users. Particularly vulnerable groups such as elderly individuals, digitally unaware users, and first-time internet adopters. These scams often involve impersonation, emotional manipulation, urgency tactics, and psychological pressure, making them difficult to detect in real time.
+
+Traditional fraud detection systems primarily focus on post-transaction analysis or text-based signals, offering little to no protection during live phone conversations, where most financial and emotional damage occurs.
+
+There is a critical need for an AI-powered, real-time audio intelligence system that can detect scam patterns as a call is happening and proactively protect users before fraud occurs.
+
+### Objective
+Develop an innovative AI-driven solution that leverages real-time audio analysis and fraud detection to:
+- Identify scam or fraudulent phone calls as they occur
+- Protect users, especially elderly and vulnerable populations from financial and emotional harm
+- Provide timely alerts, guidance, or interventions during suspicious calls
+
+## 2️⃣ Project Name
+**ScamShield - AI-Powered Real-Time Fraud Detection**
+
+## 3️⃣ Team Name
+**Team Syndicate Members**
+
+## 4️⃣ Deployed Link
+🌐 **Live Application**: [Coming Soon - Local Deployment Available]
+
+## 5️⃣ 2-Minute Demonstration Video Link
+🎥 **Demo Video**: [Upload Your Video Link Here]
+
+## 6️⃣ PPT Link
+📊 **Presentation**: [Upload Your PPT Link Here]
+
 
 
 ## 🚀 Overview
