@@ -35,7 +35,7 @@ Develop an innovative AI-driven solution that leverages real-time audio analysis
 🌐 **Live Application**: https://ai-fraud-detection-msv.netlify.app/
 
 ## 5️⃣ 2-Minute Demonstration Video Link
-🎥 **Demo Video**: [Upload Your Video Link Here]
+🎥 **Demo Video**: https://drive.google.com/drive/folders/1kiyIS_JOgh2pPR_Ot4XRnKb7wZ2DBTZE?usp=sharing
 
 ## 6️⃣ PPT Link
 📊 **Presentation**: https://in.docworkspace.com/d/sICjeusrJArK26MoG?sa=601.1037
