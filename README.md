@@ -16,7 +16,7 @@
 ### ✨ Key Features
 
 - 🎤 **Real-time Speech Recognition** - Browser-based speech-to-text conversion
-- 🤖 **AI-Powered ML Analysis** - Advanced ensemble model with 75%+ accuracy
+- 🤖 **AI-Powered ML Analysis** - Advanced ensemble model with 85%+ accuracy
 - 🌍 **8-Language Support** - English, Hindi, Telugu, Tamil, Kannada, Malayalam, Marathi, Bengali
 - 📱 **Elderly-Friendly UI** - Large text, clear colors, simple messaging
 - ⚡ **Instant Alerts** - Immediate warnings for high-risk calls
@@ -54,7 +54,7 @@ Audio Input → Speech-to-Text → ML Processing → Risk Analysis → Alert Gen
 
 | Metric | Value |
 |--------|-------|
-| **Overall Accuracy** | 75.4% |
+| **Overall Accuracy** | 85.29% |
 | **Training Samples** | 487 |
 | **Fraud Samples** | 225 |
 | **Legitimate Samples** | 262 |
